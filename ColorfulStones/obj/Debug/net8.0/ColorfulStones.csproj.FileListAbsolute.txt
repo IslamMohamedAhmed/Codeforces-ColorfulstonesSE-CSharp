@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\bin\Debug\net8.0\ColorfulStones.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\bin\Debug\net8.0\ColorfulStones.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\bin\Debug\net8.0\ColorfulStones.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\bin\Debug\net8.0\ColorfulStones.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\bin\Debug\net8.0\ColorfulStones.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\refint\ColorfulStones.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ColorfulStones.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\ColorfulStones\ColorfulStones\obj\Debug\net8.0\ref\ColorfulStones.dll
